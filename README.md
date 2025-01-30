@@ -8,9 +8,9 @@
 - **Android Version** : 15 QPR 1
 - **UI** : Based on AOSP
 - **Rom Version** : 22.1
-- **Download links** : [Lineage os](https://download.lineageos.org/devices/a52q/builds)
+- **Download links** : [LineageOS](https://download.lineageos.org/devices/a52q/builds)
 - **Official Wikki** : [LOS A52 Wikki](https://wiki.lineageos.org/devices/a52q/install/#)
-- **Source Code** : [Lineage Souce](https://github.com/LineageOS)
+- **Source Code** : [Lineage Source](https://github.com/LineageOS)
 - **Community support** : [Telegram](https://t.me/Lineageos_group)
 - **Known Bugs** : 
 	1. **Does not pass integrity checks** 
@@ -36,7 +36,7 @@
 - **Rom Version** : 11.1
 - **Download links** : [Crdroid](https://github.com/matei9/android_vendor_crDroidOTA/releases/tag/crdroid111stable)
 - **Download Wikki** : [Crdroid A52 Wikki](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
-- **Source Code** : [Crdroid](https://github.com/matei9/android_vendor_crDroidOTA)
+- **Source Code** : [Crdroid Source](https://github.com/matei9/android_vendor_crDroidOTA)
 - **Community support** : [Telegram](https://t.me/crDroidAndroid) 
 - **Known Bugs** : 
 	1. **Does not pass integrity checks** 
