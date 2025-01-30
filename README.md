@@ -24,7 +24,9 @@
 - Maintainer's profiles : Simon1511
 	- [XDA](https://xdaforums.com/m/simon1511.7334446/)
 	- [Github](https://github.com/Simon1511)
-	- [LOS Gerrit]()
+	- [LOS Gerrit](https://review.lineageos.org/q/owner:me@simon1511.de)
+---
+
 ### 2 [Crdroid](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
 - Maintainer : Testa Mic (Matei9) 
 - ROM Status : Unofficial + OTA
@@ -47,6 +49,7 @@
 - Maintainer's Profile : Testa Mic
 	- [XDA](https://xdaforums.com/m/testamic.12736440/)
 	- [Github](https://github.com/matei9)
+---
 
 ### 3 [Rising os](https://t.me/SamsunGalaxyA52/109055)
 - Maintainer : RisenID (Ruchit Marathe)
@@ -66,5 +69,6 @@
 - Maintainer's Profiles : RisenID
 	 - [XDA](https://xdaforums.com/m/risenid.12060347/)
 	 - [Github](https://github.com/RisenID)
+---
 
 ### 4 [UN1CA]
