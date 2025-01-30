@@ -1,7 +1,7 @@
 # A52 Roms and Recovery Guide
 ## List of custom roms 
 
-### [Lineage os](https://wiki.lineageos.org/devices/a52q/) 
+### 1 [Lineage os](https://wiki.lineageos.org/devices/a52q/) 
 - Maintainer : Simon1511
 - ROM Status : Official + OTA
 - Stability : Stable 
@@ -25,7 +25,7 @@
 	- [XDA](https://xdaforums.com/m/simon1511.7334446/)
 	- [Github](https://github.com/Simon1511)
 	- [LOS Gerrit]()
-### [Crdroid](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
+### 2 [Crdroid](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
 - Maintainer : Testa Mic (Matei9) 
 - ROM Status : Unofficial + OTA
 - Stability : Stable 
@@ -48,7 +48,7 @@
 	- [XDA](https://xdaforums.com/m/testamic.12736440/)
 	- [Github](https://github.com/matei9)
 
-### [Rising os](https://t.me/SamsunGalaxyA52/109055)
+### 3 [Rising os](https://t.me/SamsunGalaxyA52/109055)
 - Maintainer : RisenID (Ruchit Marathe)
 - ROM Status : Unofficial
 - Stability : Stable 
@@ -67,4 +67,4 @@
 	 - [XDA](https://xdaforums.com/m/risenid.12060347/)
 	 - [Github](https://github.com/RisenID)
 
-### [UN1CA]
+### 4 [UN1CA]
