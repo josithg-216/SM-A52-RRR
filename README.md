@@ -45,7 +45,7 @@
 - **UI** : Based on AOSP
 - **Rom Version** : 22.1
 - **Download links** : [LineageOS](https://download.lineageos.org/devices/a52q/builds)
-- **Official Wiki** : [LOS A52 Wikki](https://wiki.lineageos.org/devices/a52q/install/#)
+- **Official Wiki** : [LOS A52 wiki](https://wiki.lineageos.org/devices/a52q/install/#)
 - **Source Code** : [Lineage Source](https://github.com/LineageOS)
 - **Community support** : [Telegram](https://t.me/Lineageos_group)
 - **Google Apps** : Not Included ( Can be installed , scroll down for details )
@@ -72,7 +72,7 @@
 - **UI** : Based on AOSP UI
 - **Rom Version** : 11.1
 - **Download links** : [Crdroid](https://github.com/matei9/android_vendor_crDroidOTA/releases/tag/crdroid111stable)
-- **Download Wiki** : [Crdroid A52 Wikki](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
+- **Download Wiki** : [Crdroid A52 wiki](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
 - **Source Code** : [Crdroid Source](https://github.com/matei9/android_vendor_crDroidOTA)
 - **Community support** : [Telegram](https://t.me/crDroidAndroid)
 - **Google Apps** : Not Included ( Can be installed , scroll down for details )
@@ -164,7 +164,7 @@
 - **Download** : [EvoX Download](https://sourceforge.net/projects/evolution-x-a52q/files/)
 - **Source Code:** : [EvoX Source](https://github.com/Evolution-X/)
 - **Community Support** : [Telegram](https://github.com/Evolution-X/)
-- **Rom's Detailed XDA Post and Wikki** :[EvoX XDA](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
+- **Rom's Detailed XDA Post and wiki** :[EvoX XDA](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
 - **Google Apps** :  Included
 - Maintainer's Profile : joeyhuab and AnierinB
 	 -  [XDA](https://xdaforums.com/m/chuqol.12753012/)
