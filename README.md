@@ -173,24 +173,6 @@
 - EvolutionX [Chuqol Dev](https://www.paypal.com/donate/?hosted_button_id=66X29XLEZKPH6)
 ---
 
-# CheckSums 
-
-- **LineageOS** (SHA256)
-```
-ba6ad0bc5fe78f349bbe211f0e1022939a39155fb4798b9a3cd43bc2419b1149
-```
-
-- Crdroid (SHA256)
-```
-e6047f3b495b8a58ee163a657e8e35935cd57c2719d972e1d1d448cf6910925d
-```
-
-- UN1CA (SHA1)
-```
-e114f9e498cfc55c4eb1fd1cae69ae74
-```
----
-
 # Kernel 
 
 ## Ascendia Kernel 
@@ -199,6 +181,10 @@ e114f9e498cfc55c4eb1fd1cae69ae74
 - Source code : [Ascendia Source](https://github.com/RisenID/kernel_samsung_ascendia_sm7125)
 - Kernel Support - 
 	 [Telegram](https://t.me/AscendiaChat)
+
+## PixelOS 
+- if you are from pixel os dont change kernel stick with the included one ( Told by the official dev )
+
 ---
 # Rooting 
 ## Magisk 
