@@ -35,7 +35,7 @@
 - After the result is PASS , Move to recovery 
 ---
 
-## List of custom roms 
+# List of custom roms 
 
 ### 1 [Lineage os](https://wiki.lineageos.org/devices/a52q/) 
 - **Maintainer** : Simon1511
@@ -110,7 +110,7 @@
 - **Maintainer's Profiles** : RisenID
 	 - [XDA](https://xdaforums.com/m/risenid.12060347/)
 	 - [Github](https://github.com/RisenID)
----
+ ---
 
 ### 4 [UN1CA](https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwimuuDSlZ6LAxVsRmcHHfrBIIYQFnoECAkQAQ&url=https%3A%2F%2Fgithub.com%2Fsalvogiangri%2FUN1CA&usg=AOvVaw3FP9q9uWlAmds0YocaD9G3&opi=89978449)
 - **Maintainer** : Salvogiangri ( Salvo Giangreco )
@@ -168,6 +168,12 @@
 - Maintainer's Profile : joeyhuab and AnierinB
 	 -  [XDA](https://xdaforums.com/m/chuqol.12753012/)
 ---
+# Donate to Devs 
+- Please crosscheck / Double check the devs Paypal name before donating there is a chance of you misclicking the link
+- Lineage os [Simon1511](https://www.paypal.com/paypalme/SimonS1511)
+- Crdroid [TestaMic (Filip Cojocaru)](https://www.paypal.com/paypalme/FilipCojocaru)
+- UN1CA (Check his [Github](https://github.com/sponsors/salvogiangri) Sponsor page )
+- EvolutionX [Chuqol Dev](https://www.paypal.com/donate/?hosted_button_id=66X29XLEZKPH6)
 # Rooting 
 ## Magisk 
 - Download [Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.1)
@@ -214,5 +220,14 @@
 - Disable auto reboot in settings (odin)
 - Place the files in respective Odin slot and fash
 ---
+
+# One UI Debloat 
+- Download [UniveralAndroidDebloater]() 
+- Enable USB debugging from Developer options
+- Plug the phone into the pc 
+- Open UAD_GUI
+- Select the files according to this [PDF](https://github.com/josithg-216/SM-A52-RRR/releases/tag/OneUI-Debloat)
+- After selecting them , Delete them
+
 
 
