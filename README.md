@@ -5,7 +5,7 @@
 - Knox security will be tripped no matter what you do , you cannot undo it , 
 - Consequences : Cannot use Knox based services ( Secure folder , Samsung Pay ) when returning to stock rom from a custom rom 
 ### 2 . Dev's Responsibilities
-- developers are not responsible for ==Bricked devices and Dead SD cards== 
+- developers are not responsible for Bricked devices or Dead SD cards 
 - developers will not be responsible for future problems that occur on the device
 ---
 
