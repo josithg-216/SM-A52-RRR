@@ -18,7 +18,7 @@
 		-  Can be solved via patch , Scroll down for more details )
 	2. **No VoLTE** 
 		- VoLTE (Voice over Long-Term Evolution) wont work . In simple terms you will not be able to use internet when you are in a call  
-		- This cannot be solved due to Samsung's proprietary implement  
+		- This cannot be solved due to Samsung's proprietary implementation 
 - [**Gerrit**](https://review.lineageos.org/q/status:open+-is:wip) 
 - **Detailed XDA Post** : [XDA LOS A52](https://xdaforums.com/t/rom-15-0-encryption-official-lineageos-22-for-a52-4g.4712064/)
 - **Maintainer's profiles** : Simon1511
@@ -44,7 +44,7 @@
 		-  Can be solved via patch , Scroll down for more details )
 	2. **No VoLTE** 
 		- VoLTE (Voice over Long-Term Evolution) wont work . In simple terms you will not be able to use internet when you are in a call  
-		- This cannot be solved due to Samsung's proprietary implement  
+		- This cannot be solved due to Samsung's proprietary implementation 
 - **Detailed XDA Post** : [XDA CrD A52](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
 - **Maintainer's Profile** : Testa Mic
 	- [**XDA**](https://xdaforums.com/m/testamic.12736440/)
@@ -65,7 +65,7 @@
 		-  Can be solved via patch , Scroll down for more details )
 	2. **No VoLTE** 
 		- VoLTE (Voice over Long-Term Evolution) wont work . In simple terms you will not be able to use internet when you are in a call  
-		- This cannot be solved due to Samsung's proprietary implement  
+		- This cannot be solved due to Samsung's proprietary implementation  
 - **Maintainer's Profiles** : RisenID
 	 - [XDA](https://xdaforums.com/m/risenid.12060347/)
 	 - [Github](https://github.com/RisenID)
@@ -87,3 +87,25 @@
 		-  Can be solved via patch , Scroll down for more details )
 - **Maintainer's Profiles**
 	- [Github](https://github.com/salvogiangri)
+---
+
+
+### 5 [Pixel OS](https://github.com/PixelOS-AOSP)
+- **Maintainer** : koko-07
+- **ROM Status** : Unofficial
+- **Stability** : Stable 
+- **Android Version** : 15 
+- **Rom Version** : 15
+- **UI** : Based on AOSP UI
+- **Rom's Detailed XDA Post** : [XDA Pixel OS](https://xdaforums.com/t/rom-15-unofficial-pixelos-for-galaxy-a52-4g-stable.4702572/#post-89803350)
+- **Download Link** : [PixelOS Download](https://sourceforge.net/projects/pixelos-a52/files/A52/)
+- **Source Code** : [PixelOS Source](http://github.com/PixelOS-AOSP)
+- **Community Support** : [Telegram](https://t.me/posa52qq)
+-  **Known Bugs** :
+	1. No VoLTE 
+		- VoLTE (Voice over Long-Term Evolution)  wont work . In simple terms you will not be able to use internet when you are in a call  
+		- This cannot be solved due to Samsung's proprietary implementation 
+- Maintainer's Profile : KoKo-07
+	- [XDA](https://xdaforums.com/m/koko-07.12900040/) 
+	- [Github](https://github.com/koko-07870)
+
