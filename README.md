@@ -272,5 +272,5 @@ e114f9e498cfc55c4eb1fd1cae69ae74
 - This repo will be actively maintained , Changes will be done 3 days once , Anyone is welcomed to make changes
 ---
 
-# Big Thanks to Samsung Developer and Modding Community 
+# Big Thanks to Samsung Developers and Modding Community 
 ---
