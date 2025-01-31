@@ -12,6 +12,7 @@
 - **Official Wikki** : [LOS A52 Wikki](https://wiki.lineageos.org/devices/a52q/install/#)
 - **Source Code** : [Lineage Source](https://github.com/LineageOS)
 - **Community support** : [Telegram](https://t.me/Lineageos_group)
+- **Google Apps** : Not Included ( Can be installed , scroll down for details )
 - **Known Bugs** : 
 	1. **Does not pass integrity checks** 
 		-  fails Play integrity and SafetyNet checks 
@@ -37,7 +38,8 @@
 - **Download links** : [Crdroid](https://github.com/matei9/android_vendor_crDroidOTA/releases/tag/crdroid111stable)
 - **Download Wikki** : [Crdroid A52 Wikki](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
 - **Source Code** : [Crdroid Source](https://github.com/matei9/android_vendor_crDroidOTA)
-- **Community support** : [Telegram](https://t.me/crDroidAndroid) 
+- **Community support** : [Telegram](https://t.me/crDroidAndroid)
+- **Google Apps** : Not Included ( Can be installed , scroll down for details )
 - **Known Bugs** : 
 	1. **Does not pass integrity checks** 
 		-  fails Play integrity and SafetyNet checks 
@@ -59,6 +61,9 @@
 - **Rom Version** : 6.0
 - **UI** : Based on AOSP UI
 - **Download link** : [RisingOS](https://downloads.simon1511.de/s/ktrYHmpnp6Y6WFY)
+- Google Apps :
+	- Not Included in Vanilla build  ( Can be installed , scroll down for details )
+	- Included in GAPPS build 
 - **Known Bugs** : 
 	1. **Does not pass integrity checks** 
 		-  fails Play integrity and SafetyNet checks 
@@ -81,6 +86,7 @@
 - **Download link** : [UN1CA](https://github.com/salvogiangri/UN1CA/releases/tag/2.5.4) 
 - **Source Code** : [UN1CA Source](https://github.com/salvogiangri/UN1CA)
 - **Community support** : [Telegram](https://t.me/unicarom)
+- Google Apps : Included
 -  **Known Bugs** : 
 	1. Does not pass integrity checks 
 		-  fails Play integrity and SafetyNet checks 
@@ -101,6 +107,7 @@
 - **Download Link** : [PixelOS Download](https://sourceforge.net/projects/pixelos-a52/files/A52/)
 - **Source Code** : [PixelOS Source](http://github.com/PixelOS-AOSP)
 - **Community Support** : [Telegram](https://t.me/posa52qq)
+- **Google Apps** : Included
 -  **Known Bugs** :
 	1. No VoLTE 
 		- VoLTE (Voice over Long-Term Evolution)  wont work . In simple terms you will not be able to use internet when you are in a call  
@@ -108,4 +115,19 @@
 - Maintainer's Profile : KoKo-07
 	- [XDA](https://xdaforums.com/m/koko-07.12900040/) 
 	- [Github](https://github.com/koko-07870)
+---
 
+### 6 [Evolution x](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
+- **Maintainer** : Chuqol
+- **ROM Status** : Unofficial 
+- **Stability** : Stable 
+- **Android Version** : 15 
+- **Rom Version** : 10.2
+- **UI** : Based on AOSP UI
+- **Download** : [EvoX Download](https://sourceforge.net/projects/evolution-x-a52q/files/)
+- **Source Code:** : [EvoX Source](https://github.com/Evolution-X/)
+- **Community Support** : [Telegram](https://github.com/Evolution-X/)
+- **Rom's Detailed XDA Post and Wikki** :[EvoX XDA](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
+- **Google Apps** :  Included
+- Maintainer's Profile : joeyhuab and AnierinB
+	 -  [XDA](https://xdaforums.com/m/chuqol.12753012/)
