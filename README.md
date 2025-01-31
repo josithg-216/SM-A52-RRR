@@ -197,5 +197,22 @@
 - **Developer** : chiteroman
 - **Requirements** : Magisk or KerenelISU
 - **Patch Link** : [Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/tag/v18.5)
-
 ---
+
+# Google Apps 
+- Dont Install Google Apps if it is already included in build 
+- If GApps are not included , follow the steps below 
+- [MindTheGapps](https://wiki.lineageos.org/gapps/)
+- [NiksGapps](https://nikgapps.com/downloads)
+- download any one of gapps and flash it via recovery
+
+# Reinstall Stock Rom ( One ui )
+- Discontinued
+- Donwload the stock rom from [SAMFW](https://samfw.com/firmware/SM-A525F)
+- Enter download mode and open odin in your pc
+- extract the downloaded rom
+- Disable auto reboot in settings (odin)
+- Place the files in respective Odin slot and fash
+---
+
+
