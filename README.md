@@ -132,7 +132,7 @@
 ---
 
 
-### 5 [Pixel OS](https://github.com/PixelOS-AOSP)
+### 5 [PixelOS](https://github.com/PixelOS-AOSP)
 - **Maintainer** : koko-07
 - **ROM Status** : Unofficial
 - **Stability** : Stable 
@@ -153,7 +153,7 @@
 	- [Github](https://github.com/koko-07870)
 ---
 
-### 6 [Evolution x](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
+### 6 [EvolutionX](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
 - **Maintainer** : Chuqol
 - **ROM Status** : Unofficial 
 - **Stability** : Stable 
@@ -169,7 +169,7 @@
 	 -  [XDA](https://xdaforums.com/m/chuqol.12753012/)
 ---
 # Donate to Devs 
-- Please crosscheck / Double check the devs Paypal name before donating there is a chance of you misclicking the link
+- Please cross check / Double check the devs Paypal name before donating (there is a chance of you misclicking the link)
 - Lineage os [Simon1511](https://www.paypal.com/paypalme/SimonS1511)
 - Crdroid [TestaMic (Filip Cojocaru)](https://www.paypal.com/paypalme/FilipCojocaru)
 - UN1CA (Check his [Github](https://github.com/sponsors/salvogiangri) Sponsor page )
