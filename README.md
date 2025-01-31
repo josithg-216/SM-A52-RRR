@@ -104,7 +104,6 @@
 		-  fails Play integrity and SafetyNet checks 
 		-  Can be solved via patch , Scroll down for more details )
 	2. **No VoLTE** 
-		- VoLTE (Voice over Long-Term Evolution) wont work . In simple terms you will not be able to use internet when you are in a call  
 		- This cannot be solved due to Samsung's proprietary implementation  
 - **Maintainer's Profiles** : RisenID
 	 - [XDA](https://xdaforums.com/m/risenid.12060347/)
