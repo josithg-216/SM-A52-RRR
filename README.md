@@ -194,6 +194,16 @@ e6047f3b495b8a58ee163a657e8e35935cd57c2719d972e1d1d448cf6910925d
 e114f9e498cfc55c4eb1fd1cae69ae74
 ```
 ---
+
+# Kernel 
+
+## Ascendia Kernel 
+- Developer and Maintainer : RisenID ( Ruchit Marathe )
+- Ascendia isn't compatible with A15 as of now wait until developers release a patch 
+- Source code : [Ascendia Source](https://github.com/RisenID/kernel_samsung_ascendia_sm7125)
+- Kernel Support - 
+	 [Telegram](https://t.me/AscendiaChat)
+---
 # Rooting 
 ## Magisk 
 - Download [Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.1)
