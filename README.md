@@ -167,3 +167,35 @@
 - **Google Apps** :  Included
 - Maintainer's Profile : joeyhuab and AnierinB
 	 -  [XDA](https://xdaforums.com/m/chuqol.12753012/)
+---
+# Rooting 
+## Magisk 
+- Download [Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.1)
+- Rename .Apk as .Zip
+- Enter the recovery and flash Magisk,zip
+- installation along with Rom is recommended
+- After installing Magisk via Recovery , Reboot the device. 
+- Open Magisk App
+- Patch the app with (recommended method)
+- Reboot again 
+- Check the root status with root checker app 
+
+## KernelISU
+- Installation of kernelISU is always recommended only with ascendia kernel 
+- Wait for Android 15 Ascendia patch
+---
+
+# Patch for Rooted devices
+- Rooted devices can install patches like Knox Parch and Integrity fix patch
+
+## Knox Patch for Stock Rom 
+- **Developer** : Salvogiangri ( Salvo Giangreco )
+- **Requirements** : Magisk or KerenelISU
+- **Patch Link** : [Knox Patch](https://github.com/salvogiangri/KnoxPatch)
+
+## Play integrity fix :
+- **Developer** : chiteroman
+- **Requirements** : Magisk or KerenelISU
+- **Patch Link** : [Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/tag/v18.5)
+
+---
