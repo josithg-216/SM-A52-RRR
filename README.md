@@ -45,7 +45,7 @@
 - **UI** : Based on AOSP
 - **Rom Version** : 22.1
 - **Download links** : [LineageOS](https://download.lineageos.org/devices/a52q/builds)
-- **Official Wikki** : [LOS A52 Wikki](https://wiki.lineageos.org/devices/a52q/install/#)
+- **Official Wiki** : [LOS A52 Wikki](https://wiki.lineageos.org/devices/a52q/install/#)
 - **Source Code** : [Lineage Source](https://github.com/LineageOS)
 - **Community support** : [Telegram](https://t.me/Lineageos_group)
 - **Google Apps** : Not Included ( Can be installed , scroll down for details )
@@ -72,7 +72,7 @@
 - **UI** : Based on AOSP UI
 - **Rom Version** : 11.1
 - **Download links** : [Crdroid](https://github.com/matei9/android_vendor_crDroidOTA/releases/tag/crdroid111stable)
-- **Download Wikki** : [Crdroid A52 Wikki](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
+- **Download Wiki** : [Crdroid A52 Wikki](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
 - **Source Code** : [Crdroid Source](https://github.com/matei9/android_vendor_crDroidOTA)
 - **Community support** : [Telegram](https://t.me/crDroidAndroid)
 - **Google Apps** : Not Included ( Can be installed , scroll down for details )
@@ -87,6 +87,7 @@
 - **Maintainer's Profile** : Testa Mic
 	- [**XDA**](https://xdaforums.com/m/testamic.12736440/)
 	- [**Github**](https://github.com/matei9)
+        - [**Telegram DM**](@testamic2)
 ---
 
 ### 3 [Rising os](https://t.me/SamsunGalaxyA52/109055)
@@ -171,7 +172,7 @@
 # Donate to Devs 
 - Please cross check / Double check the devs Paypal name before donating (there is a chance of you misclicking the link)
 - Lineage os [Simon1511](https://www.paypal.com/paypalme/SimonS1511)
-- Crdroid [TestaMic (Filip Cojocaru)](https://www.paypal.com/paypalme/FilipCojocaru)
+- Crdroid [TestaMic](https://www.paypal.com/paypalme/FilipCojocaru)
 - UN1CA (Check his [Github](https://github.com/sponsors/salvogiangri) Sponsor page )
 - EvolutionX [Chuqol Dev](https://www.paypal.com/donate/?hosted_button_id=66X29XLEZKPH6)
 ---
