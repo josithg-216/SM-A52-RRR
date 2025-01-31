@@ -87,7 +87,7 @@
 - **Maintainer's Profile** : Testa Mic
 	- [**XDA**](https://xdaforums.com/m/testamic.12736440/)
 	- [**Github**](https://github.com/matei9)
-        - [**Telegram DM**](@testamic2)
+ - [**Telegram DM**](@testamic2)
 ---
 
 ### 3 [Rising os](https://t.me/SamsunGalaxyA52/109055)
