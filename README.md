@@ -174,6 +174,25 @@
 - Crdroid [TestaMic (Filip Cojocaru)](https://www.paypal.com/paypalme/FilipCojocaru)
 - UN1CA (Check his [Github](https://github.com/sponsors/salvogiangri) Sponsor page )
 - EvolutionX [Chuqol Dev](https://www.paypal.com/donate/?hosted_button_id=66X29XLEZKPH6)
+---
+
+# CheckSums 
+
+- **LineageOS** (SHA256)
+```
+ba6ad0bc5fe78f349bbe211f0e1022939a39155fb4798b9a3cd43bc2419b1149
+```
+
+- Crdroid (SHA256)
+```
+e6047f3b495b8a58ee163a657e8e35935cd57c2719d972e1d1d448cf6910925d
+```
+
+- UN1CA (SHA1)
+```
+e114f9e498cfc55c4eb1fd1cae69ae74
+```
+---
 # Rooting 
 ## Magisk 
 - Download [Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.1)
@@ -228,6 +247,19 @@
 - Open UAD_GUI
 - Select the files according to this [PDF](https://github.com/josithg-216/SM-A52-RRR/releases/tag/OneUI-Debloat)
 - After selecting them , Delete them
+---
+# Device Support Group 
+- [Telegram Device Group](https://t.me/SamsunGalaxyA52)
+- [SubReddit](https://www.reddit.com/r/GalaxyA52/)
+---
 
+# Thanks Giving
+- Thank you all the developers who are working hard to take our device experience to the next level , You will be remembered , Thank YOU , Love You 3000 :3
+---
 
+# Note 
+- This repo will be actively maintained , Changes will be done 3 days once , Everyone is welcomed to make changes
+---
 
+# Big Thanks to Samsung Developer and Modding Community 
+---
