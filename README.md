@@ -72,3 +72,18 @@
 ---
 
 ### 4 [UN1CA](https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwimuuDSlZ6LAxVsRmcHHfrBIIYQFnoECAkQAQ&url=https%3A%2F%2Fgithub.com%2Fsalvogiangri%2FUN1CA&usg=AOvVaw3FP9q9uWlAmds0YocaD9G3&opi=89978449)
+- **Maintainer** : Salvogiangri ( Salvo Giangreco )
+- **ROM Status** : Official 
+- **Stability** : Stable 
+- **Android Version** : 14 
+- **Rom  Version** : 2.5.4
+- **UI** : Based on One UI
+- **Download link** : [UN1CA](https://github.com/salvogiangri/UN1CA/releases/tag/2.5.4) 
+- **Source Code** : [UN1CA Source](https://github.com/salvogiangri/UN1CA)
+- **Community support** : [Telegram](https://t.me/unicarom)
+-  **Known Bugs** : 
+	1. Does not pass integrity checks 
+		-  fails Play integrity and SafetyNet checks 
+		-  Can be solved via patch , Scroll down for more details )
+- **Maintainer's Profiles**
+	- [Github](https://github.com/salvogiangri)
