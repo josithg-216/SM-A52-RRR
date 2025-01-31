@@ -12,9 +12,9 @@
 # Odin And Recovery 
 ### Recoveries 
 - If you downloading a custom rom check whether there is recovery included with rom , if included use that , use the below mentioned recoveries only to install patches on Stock ROM or if the ROM does not come out with a recovery 
-- TWRP (https://twrp.me/samsung/samsunggalaxya52q.html)
-- OrangeFox (https://orangefox.download/device/a52q)
-- If the recovery is in .img format , use 
+- [TWRP](https://twrp.me/samsung/samsunggalaxya52q.html)
+- [OrangeFox](https://orangefox.download/device/a52q)
+- If the recovery is in .img format , use the following command to convert it into .tar
 ```
   `tar --format=ustar -cvf Filename.tar Filename.img`
 ```
