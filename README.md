@@ -8,6 +8,33 @@
 - developers are not responsible for ==Bricked devices and Dead SD cards== 
 - developers will not be responsible for future problems that occur on the device
 ---
+
+# Odin And Recovery 
+### Recoveries 
+- If you downloading a custom rom check whether there is recovery included with rom , if included use that , use the below mentioned recoveries only to install patches on Stock ROM or if the ROM does not come out with a recovery 
+- TWRP (https://twrp.me/samsung/samsunggalaxya52q.html)
+- OrangeFox (https://orangefox.download/device/a52q)
+- If the recovery is in .img format , use 
+```
+  `tar --format=ustar -cvf Filename.tar Filename.img`
+```
+---
+### Odin ( Flashing Recovery )
+- Download Odin : [ODIN](https://odindownload.com/)
+- Enable developer options and Enable OEM Unlocking inside it 
+- Plug the phone to your pc
+- Enter download mode and Unlock bootloader
+- Rebbot 
+- Open ODIN
+- Enter download mode again
+- Check the log whether the device is added in ODIN 
+- Insert the recovery file in AP slot 
+- insert [vbmeta_disabler](https://github.com/josithg-216/SM-A52-RRR/releases/tag/Vbmeta_disabler) in CSC slot 
+- Disable auto reboot in Settings 
+- Click on start 
+- After the result is PASS , Move to recovery 
+---
+
 ## List of custom roms 
 
 ### 1 [Lineage os](https://wiki.lineageos.org/devices/a52q/) 
