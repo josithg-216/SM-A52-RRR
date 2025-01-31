@@ -265,7 +265,7 @@ e114f9e498cfc55c4eb1fd1cae69ae74
 ---
 
 # Thanks Giving
-- Thank you all the developers who are working hard to take our device experience to the next level , You will be remembered , Thank YOU , Love You 3000 :3
+## Thank you all the developers who are working hard to take our device experience to the next level , You will be remembered , Thank YOU , Love You 3000 :3
 ---
 
 # Note 
