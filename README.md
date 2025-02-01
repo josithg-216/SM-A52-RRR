@@ -72,7 +72,7 @@
 - **Rom Version** : 11.1
 - **Download links** : [Crdroid Download](https://sourceforge.net/projects/crdroid/files/a52q/11.x/crDroidAndroid-15.0-20250201-a52q-v11.1.zip/download)
 - **Official Wiki** : [CrDroid Wikki](https://crdroid.net/a52q/11/install)
-- **Source Code** : [Crdroid Source](https://github.com/matei9/android_vendor_crDroidOTA)
+- **Source Code** : [Crdroid Source](https://github.com/crdroidandroid)
 - **Community support** : [Telegram](https://t.me/crDroidAndroid)
 - **Google Apps** : Not Included ( Can be installed , scroll down for details )
 - **Known Bugs** : 
