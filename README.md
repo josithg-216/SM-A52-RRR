@@ -105,7 +105,7 @@
 
 ### 4 [Derpfest](https://github.com/wojtekojtek/a52q-builds)
 - **Maintainer** : Wojtek (wojtekojtek)
-- **Rom Status** : Unofficial
+- **Rom Status** : Unofficial + OTA
 - **Stability** : Stablle
 - **Android Version** : 14
 - **Rom Version** : 14
