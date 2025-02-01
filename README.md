@@ -200,12 +200,12 @@
 
 ## Knox Patch for Stock Rom 
 - **Developer** : Salvogiangri ( Salvo Giangreco )
-- **Requirements** : Magisk or KerenelISU
+- **Requirements** : Magisk or KerenelKSU
 - **Patch Link** : [Knox Patch](https://github.com/salvogiangri/KnoxPatch)
 
 ## Play integrity fix :
 - **Developer** : chiteroman
-- **Requirements** : Magisk or KerenelISU
+- **Requirements** : Magisk or KerenelKSU
 - **Patch Link** : [Integrity Fix](https://github.com/chiteroman/PlayIntegrityFix/releases/tag/v18.5)
 ---
 
