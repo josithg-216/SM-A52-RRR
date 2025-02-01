@@ -65,7 +65,7 @@
 
 ### 2 [Crdroid](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
 - **Maintainer** : Testa Mic (Matei9) 
-- **ROM Status** : Unofficial + OTA
+- **ROM Status** : Official + OTA
 - **Stability** : Stable 
 - **Android Version** : 15 QPR 1
 - **UI** : Based on AOSP UI
