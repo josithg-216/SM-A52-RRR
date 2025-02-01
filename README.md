@@ -71,7 +71,7 @@
 - **UI** : Based on AOSP UI
 - **Rom Version** : 11.1
 - **Download links** : [Crdroid](https://github.com/matei9/android_vendor_crDroidOTA/releases/tag/crdroid111stable)
-- **Download Wiki** : [Crdroid A52 wiki](https://xdaforums.com/t/crdroid-11-1-stable-android-15-qpr1-for-a52-4g-a52q-unofficial.4672356/)
+- **Download Wiki** : [CrDroid Wikki](https://crdroid.net/a52q/11/install)
 - **Source Code** : [Crdroid Source](https://github.com/matei9/android_vendor_crDroidOTA)
 - **Community support** : [Telegram](https://t.me/crDroidAndroid)
 - **Google Apps** : Not Included ( Can be installed , scroll down for details )
