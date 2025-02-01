@@ -104,7 +104,7 @@
 ---
 
 
-### 5 [PixelOS](https://github.com/PixelOS-AOSP)
+### 4 [PixelOS](https://github.com/PixelOS-AOSP)
 - **Maintainer** : koko-07
 - **ROM Status** : Unofficial
 - **Stability** : Stable 
@@ -124,7 +124,7 @@
 	- [Github](https://github.com/koko-07870)
 ---
 
-### 6 [EvolutionX](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
+### 5 [EvolutionX](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
 - **Maintainer** : Chuqol
 - **ROM Status** : Unofficial 
 - **Stability** : Stable 
