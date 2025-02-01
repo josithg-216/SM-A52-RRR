@@ -90,7 +90,7 @@
 
 ### 3 [UN1CA](https://www.google.com/url?sa=t&source=web&cd=&ved=2ahUKEwimuuDSlZ6LAxVsRmcHHfrBIIYQFnoECAkQAQ&url=https%3A%2F%2Fgithub.com%2Fsalvogiangri%2FUN1CA&usg=AOvVaw3FP9q9uWlAmds0YocaD9G3&opi=89978449)
 - **Maintainer** : Salvogiangri ( Salvo Giangreco )
-- **ROM Status** : Official 
+- **ROM Status** : Official + OTA
 - **Stability** : Stable 
 - **Android Version** : 14 
 - **Rom  Version** : 2.5.4
