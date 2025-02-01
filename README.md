@@ -151,10 +151,10 @@
 - **Community Support** : [Telegram](https://github.com/Evolution-X/)
 - **Rom's Detailed XDA Post and wiki** :[EvoX XDA](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
 - **Google Apps** :  Included
--  **Known Bugs** :
+-  **Known Bugs** : Chuqol
 	1. No VoLTE 
 		- This cannot be solved due to Samsung's proprietary implementation
-- **Maintainer's Profile** : joeyhuab and AnierinB
+- **Maintainer's Profile** :
 	 -  [XDA](https://xdaforums.com/m/chuqol.12753012/)
 ---
 # Donate to Devs 
