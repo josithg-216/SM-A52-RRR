@@ -168,6 +168,9 @@
 - **Known Bugs** :
 	1. No VoLTE 
 		- This cannot be solved due to Samsung's proprietary implementation
+- **Maintainer's Profile** : KoKo-07
+	- [XDA](https://xdaforums.com/m/risenid.12060347/) 
+	- [Github](https://github.com/RisenID)
 ---
 # Donate to Devs 
 - Please cross check / Double check the devs Paypal name before donating (there is a chance of you misclicking the link)
