@@ -151,11 +151,23 @@
 - **Community Support** : [Telegram](https://github.com/Evolution-X/)
 - **Rom's Detailed XDA Post and wiki** :[EvoX XDA](https://xdaforums.com/t/rom-15-0-0_r10-unofficial-evolution-x-10-2-01-29-25.4705163/)
 - **Google Apps** :  Included
--  **Known Bugs** : Chuqol
+-  **Known Bugs** : 
 	1. No VoLTE 
 		- This cannot be solved due to Samsung's proprietary implementation
-- **Maintainer's Profile** :
+- **Maintainer's Profile** : Chuqol
 	 -  [XDA](https://xdaforums.com/m/chuqol.12753012/)
+---
+### 7 [Pixel OS (RISENID)](https://t.me/a525xx/116577)
+- **Maintainer** : Risen ID
+- **ROM Status** : Unofficial
+- **Stability** : Stable 
+- **Android Version** : 15 
+- **Rom Version** : 15
+- **UI** : Based on AOSP UI
+- **Download link** : [Gdrive](https://drive.google.com/file/d/1jDYmobcC7q0o5UmnkC7xm3Bws2F8hpM3/view?usp=sharing) , [Nextcloud](https://downloads.simon1511.de/s/SwCNL39tywJ5PqE)
+- **Known Bugs** :
+	1. No VoLTE 
+		- This cannot be solved due to Samsung's proprietary implementation
 ---
 # Donate to Devs 
 - Please cross check / Double check the devs Paypal name before donating (there is a chance of you misclicking the link)
