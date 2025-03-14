@@ -190,7 +190,7 @@
 	 [Telegram](https://t.me/AscendiaChat)
 
 ## PixelOS 
-- if you are from pixel os dont change kernel stick with the included one ( Told by the official dev )
+- if you are from pixel os dont change kernel stick with the included one ( Told by the  dev )
 
 ---
 # Rooting 
@@ -232,7 +232,6 @@
 - download any one of gapps and flash it via recovery
 
 # Reinstall Stock Rom ( One ui )
-- Discontinued
 - Donwload the stock rom from [SAMFW](https://samfw.com/firmware/SM-A525F)
 - Enter download mode and open odin in your pc
 - extract the downloaded rom
